@@ -13,10 +13,9 @@
   "homepage": "https://github.com/unlight/nkit",
   "dependencies": {
     "deepmerge": "0.X",
-    "dotty": "0.X",
+    "getValueR": "latest",
     "fastsync": "0.4.X",
     "toSrc": "0.X",
-    "undefsafe": "0.X",
     "xconf": "0.X"
   },
   "keywords": [
