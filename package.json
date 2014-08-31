@@ -16,7 +16,8 @@
     "getValueR": "latest",
     "fastsync": "0.4.X",
     "toSrc": "0.X",
-    "xconf": "0.X"
+    "xconf": "0.X",
+    "phpfn": "latest"
   },
   "keywords": [
     "utils",
